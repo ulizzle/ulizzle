@@ -1,4 +1,10 @@
-### Hi there 👋
+### ABOUT
+
+#### Social
+
+Substack: http://ulizzle.substack.com
+Youtube: http://youtube.com/@ulizzle
+Linkedin: http://linkedin.com/in/ulizzle/
 
 <!--
 **ulizzle/ulizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
