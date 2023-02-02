@@ -1,6 +1,6 @@
 ### ABOUT
 
-I've been coding since I was a little kid but I didn't start building software professionally until college, back when Javascript loosely equaled Flash and artisanal WordPress blogs were all the rage.
+I've been coding since I was a little kid but I didn't start building software professionally until college, back when Javascript loosely equaled Flash and artisanal WordPress blogs "progressively enhanced" with jQuery were all the rage.
 
 But then one day, Steve Jobs, in one of his LSD-infused power trips said:
 
