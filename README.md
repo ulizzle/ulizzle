@@ -1,5 +1,15 @@
 ### ABOUT
 
+I've been coding since I was a little kid but I didn't start building software professionally until college, back when Javascript loosely equaled Flash and artisanal WordPress blogs were all the rage.
+
+But then one day, Steve Jobs, in one of his LSD-infused power trips said:
+
+"LET THERE BE NO MORE FLASH ON THE IPHONE"
+
+Little did we know that would be the end of the creative web; but in my case, I moved on to Ruby on Rails and started building web apps. 
+
+Later, JavaScript would rise from the ashes like a goofy-eyed, janky-looking phoenix in the form of Node.js, and I've been living in this Wild West of JavaScript ever since.
+
 #### Social
 
 - Substack: http://ulizzle.substack.com
