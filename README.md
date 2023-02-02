@@ -12,7 +12,7 @@ Later, JavaScript would rise from the ashes like a goofy-eyed, janky-looking pho
 
 #### Social
 
-- Substack: http://ulizzle.substack.com
+- Blog: http://ulizzle.substack.com
 - Youtube: http://youtube.com/@ulizzle
 - Linkedin: http://linkedin.com/in/ulizzle/
 
